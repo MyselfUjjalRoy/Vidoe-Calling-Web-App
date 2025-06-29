@@ -9,15 +9,6 @@ Absolutely, Ujjal! Here's a professional and detailed `README.md` file for your 
 
 A full-stack real-time video calling application built using **React**, **Express.js**, **Socket.io**, and **MongoDB**. This app allows users to register, log in, create/join meetings, and view their activity history.
 
----
-
-## 🚀 Live Demo
-
-- 🔗 Frontend: [https://your-frontend-url.vercel.app](https://your-frontend-url.vercel.app)
-- 🔗 Backend: [https://zoom-backend.onrender.com](https://zoom-backend.onrender.com)
-
----
-
 ## 📦 Tech Stack
 
 ### 🔧 Backend:
