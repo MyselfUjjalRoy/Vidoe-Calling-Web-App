@@ -38,31 +38,6 @@ A full-stack real-time video calling application built using **React**, **Expres
 - ✅ Activity history tracking per user
 - ✅ Socket.io for signaling & user connection handling
 
----
-
-## 🧑‍💻 Folder Structure
-
-```
-
-Zoom/
-├── backend/
-│   ├── src/
-│   ├── controllers/
-│   ├── routes/
-│   ├── models/
-│   ├── .env
-│   └── package.json
-├── frontend/
-│   ├── src/
-│   ├── components/
-│   ├── context/
-│   ├── pages/
-│   ├── .env
-│   └── package.json
-
-````
-
----
 
 ## 🔧 Setup Instructions
 
@@ -117,21 +92,7 @@ Run frontend locally:
 npm start
 ```
 
----
 
-## 🌐 Deployment
-
-### ✅ Backend Deployment (Render)
-
-* Deployed as a Node.js Web Service
-* Environment variables set on Render Dashboard
-
-### ✅ Frontend Deployment (Vercel)
-
-* Connected via GitHub
-* Uses environment variables for API and socket URLs
-
----
 
 ## 🙋‍♂️ Author
 
